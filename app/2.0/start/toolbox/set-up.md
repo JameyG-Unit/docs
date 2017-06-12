@@ -37,6 +37,11 @@ To install Polymer CLI:
 
         polymer init polymer-2-starter-kit
 
+## Install dependencies
+
+    npm install
+    bower install
+
 ## Serve your project
 
 The App Toolbox templates do not require any build steps to get started
